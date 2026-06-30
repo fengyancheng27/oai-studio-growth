@@ -1,0 +1,9 @@
+*.pyc
+__pycache__/
+*.csv
+*.json
+!package.json
+.env
+.DS_Store
+social-covers/
+*.log
